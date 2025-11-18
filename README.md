@@ -1,6 +1,4 @@
-# terms
-
-1. Postanowienia Ogólne
+# 1. Postanowienia Ogólne
 
 
 1.1. Niniejszy regulamin określa zasady korzystania ze strony internetowej clarito.io. Korzystając z naszej strony internetowej, akceptujesz niniejszy regulamin w całości.
@@ -8,7 +6,7 @@
 1.3. W przypadku jakichkolwiek pytań lub wątpliwości dotyczących niniejszego regulaminu, prosimy o kontakt pod adresem e-mail: contact@clarito.io.
 
 
-2. Korzystanie ze Strony
+# 2. Korzystanie ze Strony
 
 
 2.1. Korzystanie ze strony internetowej odbywa się na własne ryzyko użytkownika. Właściciel strony nie ponosi odpowiedzialności za szkody wynikłe z korzystania lub niemożności korzystania ze strony.
@@ -16,7 +14,7 @@
 2.3. Zakazane jest naruszanie praw autorskich oraz innych praw własności intelektualnej związanych z treściami zamieszczonymi na stronie.
 
 
-3. Formularz Kontaktowy
+# 3. Formularz Kontaktowy
 
 
 3.1. Strona internetowa posiada formularz kontaktowy, obsługiwany przez herotofu.com.
@@ -25,7 +23,7 @@
 3.4. Wypełniając formularz kontaktowy, użytkownik zgadza się na przetwarzanie swoich danych osobowych w celach związanych z udzieleniem odpowiedzi na zapytanie lub prośbę.
 
 
-4. Postanowienia Końcowe
+# 4. Postanowienia Końcowe
 
 
 4.1. Właściciel strony zastrzega sobie prawo do zmiany niniejszego regulaminu w dowolnym czasie bez konieczności informowania użytkowników. Zmiany wchodzą w życie w momencie ich opublikowania na stronie.
