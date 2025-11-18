@@ -3,7 +3,7 @@
 
 1.1. Niniejszy regulamin określa zasady korzystania ze strony internetowej clarito.io. Korzystając z naszej strony internetowej, akceptujesz niniejszy regulamin w całości.
 1.2. Właścicielem oraz administratorem strony internetowej jest Clarito, z siedzibą w Warszawie.
-1.3. W przypadku jakichkolwiek pytań lub wątpliwości dotyczących niniejszego regulaminu, prosimy o kontakt pod adresem e-mail: contact@clarito.io.
+1.3. W przypadku jakichkolwiek pytań lub wątpliwości dotyczących niniejszego regulaminu, prosimy o kontakt pod adresem e-mail: kontakt@klarito.pl.
 
 
 # 2. Korzystanie ze Strony
