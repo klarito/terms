@@ -17,7 +17,7 @@
 # 3. Formularz Kontaktowy
 
 
-3.1. Strona internetowa posiada formularz kontaktowy, obsługiwany przez herotofu.com.
+3.1. Strona internetowa posiada formularz kontaktowy, obsługiwany przez zewnętrzą firmę.
 3.2. Wypełnienie formularza kontaktowego jest dobrowolne, jednakże umożliwia nam skontaktowanie się z użytkownikiem w celu udzielenia odpowiedzi na pytania lub żądania.
 3.3. Dane osobowe przekazywane za pośrednictwem formularza kontaktowego są przetwarzane zgodnie z polityką prywatności obowiązującą na stronie.
 3.4. Wypełniając formularz kontaktowy, użytkownik zgadza się na przetwarzanie swoich danych osobowych w celach związanych z udzieleniem odpowiedzi na zapytanie lub prośbę.
